@@ -1,0 +1,2183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/fabian/Nextcloud/tech-cluster/KEYBOARDS/own/Alnitak65/pcb/pcb.kicad_sch</source>
+    <date>Wed 30 Mar 2022 10:24:38 PM CEST</date>
+    <tool>Eeschema (6.0.2)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>pcb.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C0">
+      <value>22pf</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C1804</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef9fe134-6a01-4135-9a8c-022a12f482b1</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>22pf</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C1804</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96cc7009-e5c2-4181-9848-d145b9196cc4</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1uf</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C28323</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C28323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb5eb8e7-f7ba-4f62-8bfe-a6dd2b84605e</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>.1uf / 100nf</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C49678</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C49678"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82b74346-2f36-472f-adb4-51e43a6fd86b</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>.1uf / 100nf</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C49678</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C49678"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92c71e32-7a03-4fdc-9c77-963f893df827</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>10uf</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C91245</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C91245"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d1dfde70-d9fc-446f-93d2-31e0ac9baaa9</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee50ca34-158a-4123-ac39-d64f352f18a5</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7a9d9a0-9354-45ad-bd1b-0d6bddfccedb</tstamps>
+    </comp>
+    <comp ref="D114">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2844c110-bdd5-4dde-9863-470a354551ba</tstamps>
+    </comp>
+    <comp ref="D203">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b44d5bc0-28a7-4218-ac14-bd5700cde94e</tstamps>
+    </comp>
+    <comp ref="D405">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9f517f1-a06d-49f6-b77d-485ecdb7a5d0</tstamps>
+    </comp>
+    <comp ref="D414">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>21998911-62a0-451a-9131-672f3726ce97</tstamps>
+    </comp>
+    <comp ref="D607">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0fe1106-ed3b-4cd8-9da9-061da6753203</tstamps>
+    </comp>
+    <comp ref="D809">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75c1252e-aa00-404a-8396-748251173e69</tstamps>
+    </comp>
+    <comp ref="D1011">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9fd34b5f-149f-4b68-8b41-91fe1436f2ba</tstamps>
+    </comp>
+    <comp ref="D1213">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9c9f18d-a22e-4ba8-b92e-d4f467f3f3e0</tstamps>
+    </comp>
+    <comp ref="D1415">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f03f5f70-88db-4970-90b0-30423b591c27</tstamps>
+    </comp>
+    <comp ref="D1617">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>70aaaf83-98d5-41d9-a3f3-3f401475abc6</tstamps>
+    </comp>
+    <comp ref="D1819">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>678e9abf-3455-4ba4-82cd-a042f08f485f</tstamps>
+    </comp>
+    <comp ref="D2021">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a545a74-27a5-477c-9457-772e733fda89</tstamps>
+    </comp>
+    <comp ref="D2324">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5a0b4ed-87bf-4e56-b775-27d1ec195a28</tstamps>
+    </comp>
+    <comp ref="D2526">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7522d27-4120-4a48-8b6c-93618862e434</tstamps>
+    </comp>
+    <comp ref="D2728">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2bab0e21-648c-438b-be19-9b3acc869b42</tstamps>
+    </comp>
+    <comp ref="D3031">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ee516f1-272b-48b7-849f-a3786ffc4cfb</tstamps>
+    </comp>
+    <comp ref="D3334">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c692ac8f-ca60-4eb5-bec3-1858e08dc659</tstamps>
+    </comp>
+    <comp ref="D3536">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f3ec9fe1-c394-4b5c-89b3-c1e5eab53991</tstamps>
+    </comp>
+    <comp ref="D3738">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b323ef07-dedc-4aa0-8bd4-a84022b97b5f</tstamps>
+    </comp>
+    <comp ref="D4041">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74bed4ae-a015-4093-a5a7-d9d2bf379685</tstamps>
+    </comp>
+    <comp ref="D4344">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6dbb9bf-1e89-4a29-aff0-89675221cf74</tstamps>
+    </comp>
+    <comp ref="D10011">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23d0e7cc-ad4a-4440-b398-739d4400a319</tstamps>
+    </comp>
+    <comp ref="D12013">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e726880-170e-4df7-84ec-2bb5e3804061</tstamps>
+    </comp>
+    <comp ref="D29210">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e6d5f77-1fb0-4f48-a7b1-5eaac932d395</tstamps>
+    </comp>
+    <comp ref="D39310">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ece4e35e-97b9-442b-bfa1-70dfd3004a9f</tstamps>
+    </comp>
+    <comp ref="D110111">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>25e76240-3ab4-41aa-bebe-f361f056808b</tstamps>
+    </comp>
+    <comp ref="D112113">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9640668-236a-48eb-b2fb-04ff11e29766</tstamps>
+    </comp>
+    <comp ref="D211212">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc9f3855-1252-4328-83ca-86bc77a60c07</tstamps>
+    </comp>
+    <comp ref="D213214">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e91c772-548d-4686-ab0c-abab84dae3e2</tstamps>
+    </comp>
+    <comp ref="D311312">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ba02bea-a2f2-4aa2-ac1f-f3cd2a8dd125</tstamps>
+    </comp>
+    <comp ref="D313314">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ebbf718-9633-41fc-911f-3e7c524a46de</tstamps>
+    </comp>
+    <comp ref="D410411">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef6e2d75-c2c3-4538-a798-2a8079abd646</tstamps>
+    </comp>
+    <comp ref="D412413">
+      <value>BAV70_Small</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C68978</field>
+      </fields>
+      <libsource lib="marbastlib-various" part="BAV70_Small" description="Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23"/>
+      <property name="LCSC" value="C68978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97fea5a0-496b-48e4-8023-842fd9106fea</tstamps>
+    </comp>
+    <comp ref="F0">
+      <value>Polyfuse</value>
+      <footprint>Fuse:Fuse_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC">C69688</field>
+      </fields>
+      <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
+      <property name="LSCS" value=""/>
+      <property name="LCSC" value="C69688"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b2ce7545-8885-4956-9983-2135ea90f55b</tstamps>
+    </comp>
+    <comp ref="J0">
+      <value>USB_C_Receptacle_USB2.0</value>
+      <footprint>Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12</footprint>
+      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <fields>
+        <field name="LCSC">C165948</field>
+      </fields>
+      <libsource lib="Connector" part="USB_C_Receptacle_USB2.0" description="USB 2.0-only Type-C Receptacle connector"/>
+      <property name="LCSC" value="C165948"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1f0489e-7b8f-4213-b9b9-6c7861367c2f</tstamps>
+    </comp>
+    <comp ref="j1">
+      <value>JST ai30 daughterboard</value>
+      <footprint>kbd:Aio3_jst</footprint>
+      <fields>
+        <field name="LCSC">C160404</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C160404"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2be5b708-76d3-4fa2-bd24-ba040ea870cf</tstamps>
+    </comp>
+    <comp ref="K0,0">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f178b98-487c-46a1-8766-657a5f78fcd0</tstamps>
+    </comp>
+    <comp ref="K0,1">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d500d3f-13e5-4bd0-99c6-9636b93ac1c0</tstamps>
+    </comp>
+    <comp ref="K0,2">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6cfa86ab-1727-4964-8627-6bb0d0c75437</tstamps>
+    </comp>
+    <comp ref="K0,3">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f744ac8-75dc-474f-a74d-1290d4f37be1</tstamps>
+    </comp>
+    <comp ref="K0,4">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18747c1d-aad5-4cc2-b14d-5ec4a33850bf</tstamps>
+    </comp>
+    <comp ref="K0,5">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>85574f26-07fb-4508-bd28-19e0b8351b00</tstamps>
+    </comp>
+    <comp ref="K0,6">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>365f3579-5620-46d3-91db-c73509274d4f</tstamps>
+    </comp>
+    <comp ref="K0,7">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9823393-36ad-458f-9c9c-de72aa648789</tstamps>
+    </comp>
+    <comp ref="K0,8">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3fa93584-8baf-48f6-b952-afc49ea06ce5</tstamps>
+    </comp>
+    <comp ref="K0,9">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cab70e75-e83b-473d-a244-45f56a7dce9d</tstamps>
+    </comp>
+    <comp ref="K0,10">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>190a334a-c42f-4eb1-a66e-6134133604e2</tstamps>
+    </comp>
+    <comp ref="K0,11">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f3d4c7ab-3be4-4fa3-8c9d-12324d5b82cb</tstamps>
+    </comp>
+    <comp ref="K0,12">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>febc228b-b9de-4625-af3b-1e628dd293c1</tstamps>
+    </comp>
+    <comp ref="K0,13">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>098a74ef-db0c-4936-ab09-aa764226aa84</tstamps>
+    </comp>
+    <comp ref="K0,14">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a995e594-d43e-4510-9774-5f61438b94cf</tstamps>
+    </comp>
+    <comp ref="K1,0">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d663b6d-0b70-443a-86ee-8d4b801b2530</tstamps>
+    </comp>
+    <comp ref="K1,1">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b2e64346-2240-41fc-8a8b-2450f998ed11</tstamps>
+    </comp>
+    <comp ref="K1,2">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b782cae-11f0-42dc-ad13-ba5bbade0716</tstamps>
+    </comp>
+    <comp ref="K1,3">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>483e9042-b610-4758-8928-247fb1cb1219</tstamps>
+    </comp>
+    <comp ref="K1,4">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef655c52-f797-428d-aeb4-4a0a9984df25</tstamps>
+    </comp>
+    <comp ref="K1,5">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49ab2685-572b-4d67-915a-174daa98efdd</tstamps>
+    </comp>
+    <comp ref="K1,6">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50fbbe84-c0f9-4372-9460-429edc6e4e0c</tstamps>
+    </comp>
+    <comp ref="K1,7">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>827e070d-ef36-48f7-861e-47b3f9dbe2f4</tstamps>
+    </comp>
+    <comp ref="K1,8">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9fa9b28-c216-40a9-968b-14c2eb18451f</tstamps>
+    </comp>
+    <comp ref="K1,9">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81e80e80-689c-487d-8cfe-0155676303c8</tstamps>
+    </comp>
+    <comp ref="K1,10">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01f9fdfd-4e00-42d4-ae05-e9253351b923</tstamps>
+    </comp>
+    <comp ref="K1,11">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0fcce428-ff65-4de7-bfd7-0bae45b41303</tstamps>
+    </comp>
+    <comp ref="K1,12">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a7bf681-80c6-4f86-9516-f01dca7fdedd</tstamps>
+    </comp>
+    <comp ref="K1,13">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4cd3746-ad0b-4704-87af-865b0abd38be</tstamps>
+    </comp>
+    <comp ref="K1,14">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c36043d5-4bf0-43c1-a033-1fdc396a9ce2</tstamps>
+    </comp>
+    <comp ref="K2,0">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d045bbb-1fc6-4629-a421-500a2d0c5e89</tstamps>
+    </comp>
+    <comp ref="K2,2">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc6ff854-2915-4133-af31-6abb8591a1fa</tstamps>
+    </comp>
+    <comp ref="K2,3">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bfb59139-852d-4975-bdc2-bf4ff8258527</tstamps>
+    </comp>
+    <comp ref="K2,4">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1bd82cd1-8acf-464c-8fe1-a2f7c0af5958</tstamps>
+    </comp>
+    <comp ref="K2,5">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>252f6f21-2f92-44f2-8138-6fe07db9bbe6</tstamps>
+    </comp>
+    <comp ref="K2,6">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9eb04353-13ab-46f2-9024-63f35a9c81ea</tstamps>
+    </comp>
+    <comp ref="K2,7">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ce2014e-ce10-4b5b-b425-29062c7d28bd</tstamps>
+    </comp>
+    <comp ref="K2,8">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5fcfdd6-496d-4fb3-8e97-c41d1aa5400a</tstamps>
+    </comp>
+    <comp ref="K2,9">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f999681a-4593-4bfb-9e04-5a0d74e65e46</tstamps>
+    </comp>
+    <comp ref="K2,10">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07146b9a-5ec4-4541-b2f0-55ce8641ddab</tstamps>
+    </comp>
+    <comp ref="K2,11">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9928d47-0ea2-497d-aa63-d8628df554f4</tstamps>
+    </comp>
+    <comp ref="K2,12">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92c9e63a-7aa6-4045-a5a1-0c24c8d9c746</tstamps>
+    </comp>
+    <comp ref="K2,13">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6bc915fd-26e0-4aa5-bddb-2aa901285628</tstamps>
+    </comp>
+    <comp ref="K2,14">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e25a27b5-bf6a-4c30-86a1-bfc00a7f616f</tstamps>
+    </comp>
+    <comp ref="K3,0">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>414840ec-ab19-4ba4-a78a-90cd2fbcac77</tstamps>
+    </comp>
+    <comp ref="K3,2">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ec54e6d-fa50-42bf-8bb3-4823650ee095</tstamps>
+    </comp>
+    <comp ref="K3,3">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da0b93a7-71cb-4f81-b753-ef750e268679</tstamps>
+    </comp>
+    <comp ref="K3,4">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab90f202-e1e4-4ab9-9fc0-021f85157e92</tstamps>
+    </comp>
+    <comp ref="K3,5">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98c30b7c-0674-4ccc-98dc-fae7d4a0ff91</tstamps>
+    </comp>
+    <comp ref="K3,6">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da8e0e7b-e933-429f-90b2-904d4713458b</tstamps>
+    </comp>
+    <comp ref="K3,7">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>715e8bc4-b829-407a-a281-73a4d2f7af13</tstamps>
+    </comp>
+    <comp ref="K3,8">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9aae76fe-6e14-46c3-927b-cf3e112856a9</tstamps>
+    </comp>
+    <comp ref="K3,9">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>641b00ba-85ce-4f49-b7f8-29d5379eeae7</tstamps>
+    </comp>
+    <comp ref="K3,10">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>201ddb29-fc52-4d57-885e-62e221fbec6b</tstamps>
+    </comp>
+    <comp ref="K3,11">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>302ee084-684c-4eb0-be5e-13f9d3cb939d</tstamps>
+    </comp>
+    <comp ref="K3,12">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8d6fc26-cf0b-4941-b72c-0953a19bcac5</tstamps>
+    </comp>
+    <comp ref="K3,13">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6096f7a-3586-4d29-90b5-12a01d57de10</tstamps>
+    </comp>
+    <comp ref="K3,14">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e86e811-54df-499f-8f58-4067ffbc1f4f</tstamps>
+    </comp>
+    <comp ref="K4,0">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce0bb19f-af12-4af6-9736-ca14d567d3d1</tstamps>
+    </comp>
+    <comp ref="K4,2">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5566c57d-beda-4ab0-9be7-3e89a0399a7b</tstamps>
+    </comp>
+    <comp ref="K4,3">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb49b989-fcb8-4ed1-adfd-1f62e2345c80</tstamps>
+    </comp>
+    <comp ref="K4,4">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61d36df3-148a-41f0-90cf-1d5fdda6987a</tstamps>
+    </comp>
+    <comp ref="K4,10">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>25962e8f-1ff4-471e-8b04-4c9d6c28cc6e</tstamps>
+    </comp>
+    <comp ref="K4,11">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0523c82a-9404-4007-a828-27c643b9254b</tstamps>
+    </comp>
+    <comp ref="K4,12">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c128de69-20ea-44e3-b7a6-3b67c5353fcb</tstamps>
+    </comp>
+    <comp ref="K4,13">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58a5b08f-9598-49d6-b5e6-3da6f744aa68</tstamps>
+    </comp>
+    <comp ref="K4,14">
+      <value>KEYSW</value>
+      <footprint>kbd:keyswitch_cherrymx_alps_combo_fixed</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e733933-b387-46b7-b28c-15262fb0c300</tstamps>
+    </comp>
+    <comp ref="R0">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17414</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5eae1f56-b6b5-4c13-a2af-9266834fc9f2</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>22</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17561</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C17561"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40415c49-a61c-4fd6-a3e4-d55a8f8b8c4e</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>22</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17561</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C17561"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0354f2d-22f5-432c-b380-93a80d28acb5</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C27834</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C27834"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9782660f-0e02-4c92-9ab5-fb2f3ae048a6</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C27834</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C27834"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b44b4ab-d60b-4a99-8675-c9d8c4f202f6</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17414</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f3642676-ce32-431a-adfa-a8e750bc449d</tstamps>
+    </comp>
+    <comp ref="SW0">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:SW_SPST_TL3342</footprint>
+      <fields>
+        <field name="LCSC">C318884</field>
+      </fields>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="LCSC" value="C318884"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a559f63f-b3a0-4b81-aa6a-605d4da47af6</tstamps>
+    </comp>
+    <comp ref="U0">
+      <value>ATmega32U2-A</value>
+      <footprint>Package_QFP:TQFP-32_7x7mm_P0.8mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/doc7799.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C618733</field>
+      </fields>
+      <libsource lib="MCU_Microchip_ATmega" part="ATmega32U2-A" description="16MHz, 32kB Flash, 1kB SRAM, 1kB EEPROM, TQFP-32"/>
+      <property name="LCSC" value="C618733"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fdd487c5-e4e3-479b-9e91-739ec59bf237</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>SRV05-4</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C85364</field>
+      </fields>
+      <libsource lib="Power_Protection" part="SRV05-4" description="ESD Protection Diodes with Low Clamping Voltage, SOT-23-6"/>
+      <property name="LCSC" value="C85364"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e1a7683-466d-4d67-bce5-496395f4b0d5</tstamps>
+    </comp>
+    <comp ref="Y0">
+      <value>Crystal_GND24_Small</value>
+      <footprint>Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm</footprint>
+      <fields>
+        <field name="LCSC">C13738</field>
+      </fields>
+      <libsource lib="Device" part="Crystal_GND24_Small" description="Four pin crystal, GND on pins 2 and 4, small symbol"/>
+      <property name="LCSC" value="C13738"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ed7574f-dfd9-48ef-889b-e65459b62f49</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="USB_C_Receptacle_USB2.0">
+      <description>USB 2.0-only Type-C Receptacle connector</description>
+      <docs>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</docs>
+      <footprints>
+        <fp>USB*C*Receptacle*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_C_Receptacle_USB2.0</field>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="passive"/>
+        <pin num="A4" name="VBUS" type="passive"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="D+" type="bidirectional"/>
+        <pin num="A7" name="D-" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="D+" type="bidirectional"/>
+        <pin num="B7" name="D-" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_GND24_Small">
+      <description>Four pin crystal, GND on pins 2 and 4, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_GND24_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Polyfuse">
+      <description>Resettable fuse, polymeric positive temperature coefficient</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*polyfuse*</fp>
+        <fp>*PTC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Polyfuse</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_Microchip_ATmega" part="ATmega32U2-A">
+      <description>16MHz, 32kB Flash, 1kB SRAM, 1kB EEPROM, TQFP-32</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/doc7799.pdf</docs>
+      <footprints>
+        <fp>TQFP*7x7mm*P0.8mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATmega32U2-A</field>
+        <field name="Footprint">Package_QFP:TQFP-32_7x7mm_P0.8mm</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/doc7799.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="XTAL1" type="input"/>
+        <pin num="2" name="PC0/XTAL2" type="bidirectional"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="VCC" type="power_in"/>
+        <pin num="5" name="PC2" type="bidirectional"/>
+        <pin num="6" name="PD0" type="bidirectional"/>
+        <pin num="7" name="PD1" type="bidirectional"/>
+        <pin num="8" name="PD2" type="bidirectional"/>
+        <pin num="9" name="PD3" type="bidirectional"/>
+        <pin num="10" name="PD4" type="bidirectional"/>
+        <pin num="11" name="PD5" type="bidirectional"/>
+        <pin num="12" name="PD6" type="bidirectional"/>
+        <pin num="13" name="~{HWB}/PD7" type="bidirectional"/>
+        <pin num="14" name="PB0" type="bidirectional"/>
+        <pin num="15" name="PB1" type="bidirectional"/>
+        <pin num="16" name="PB2" type="bidirectional"/>
+        <pin num="17" name="PB3" type="bidirectional"/>
+        <pin num="18" name="PB4" type="bidirectional"/>
+        <pin num="19" name="PB5" type="bidirectional"/>
+        <pin num="20" name="PB6" type="bidirectional"/>
+        <pin num="21" name="PB7" type="bidirectional"/>
+        <pin num="22" name="PC7" type="bidirectional"/>
+        <pin num="23" name="PC6" type="bidirectional"/>
+        <pin num="24" name="PC1/~{RESET}" type="bidirectional"/>
+        <pin num="25" name="PC5" type="bidirectional"/>
+        <pin num="26" name="PC4" type="bidirectional"/>
+        <pin num="27" name="UCAP" type="passive"/>
+        <pin num="28" name="UGND" type="power_in"/>
+        <pin num="29" name="D+" type="bidirectional"/>
+        <pin num="30" name="D-" type="bidirectional"/>
+        <pin num="31" name="UVCC" type="power_in"/>
+        <pin num="32" name="AVCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Power_Protection" part="SRV05-4">
+      <description>ESD Protection Diodes with Low Clamping Voltage, SOT-23-6</description>
+      <docs>http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SRV05-4</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
+        <field name="Datasheet">http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IO1" type="passive"/>
+        <pin num="2" name="VN" type="passive"/>
+        <pin num="3" name="IO2" type="passive"/>
+        <pin num="4" name="IO3" type="passive"/>
+        <pin num="5" name="VP" type="passive"/>
+        <pin num="6" name="IO4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="keyboard_parts" part="KEYSW">
+      <fields>
+        <field name="Reference">K?</field>
+        <field name="Value">KEYSW</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="keyboard_parts" part="SW_PUSH">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_PUSH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="marbastlib-various" part="BAV70_Small">
+      <description>Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">BAV70_Small</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1" type="input"/>
+        <pin num="2" name="A2" type="input"/>
+        <pin num="3" name="K" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/home/fabian/Nextcloud/tech-cluster/KICAD/libs/kicad-symbols-master/Connector.lib</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/home/fabian/Nextcloud/tech-cluster/KICAD/libs/kicad-symbols-master/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>/home/fabian/Nextcloud/tech-cluster/KICAD/libs/kicad-symbols-master/Device.lib</uri>
+    </library>
+    <library logical="MCU_Microchip_ATmega">
+      <uri>/home/fabian/Nextcloud/tech-cluster/KICAD/libs/kicad-symbols-master/MCU_Microchip_ATmega.lib</uri>
+    </library>
+    <library logical="Power_Protection">
+      <uri>/home/fabian/Nextcloud/tech-cluster/KICAD/libs/kicad-symbols-master/Power_Protection.lib</uri>
+    </library>
+    <library logical="keyboard_parts">
+      <uri>/home/fabian/Nextcloud/tech-cluster/KICAD/libs/kicad_lib_tmk/keyboard_parts.lib</uri>
+    </library>
+    <library logical="marbastlib-various">
+      <uri>/home/fabian/Nextcloud/tech-cluster/KICAD/libs/marbastlib/marbastlib-various.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="F0" pin="2" pintype="passive"/>
+      <node ref="R0" pin="1" pintype="passive"/>
+      <node ref="U0" pin="31" pinfunction="UVCC" pintype="power_in"/>
+      <node ref="U0" pin="32" pinfunction="AVCC" pintype="power_in"/>
+      <node ref="U0" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="j1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="2" name="COL0">
+      <node ref="K0,0" pin="1" pintype="passive"/>
+      <node ref="K1,0" pin="1" pintype="passive"/>
+      <node ref="K2,0" pin="1" pintype="passive"/>
+      <node ref="K3,0" pin="1" pintype="passive"/>
+      <node ref="K4,0" pin="1" pintype="passive"/>
+      <node ref="U0" pin="25" pinfunction="PC5" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="COL1">
+      <node ref="K0,1" pin="1" pintype="passive"/>
+      <node ref="K1,1" pin="1" pintype="passive"/>
+      <node ref="U0" pin="26" pinfunction="PC4" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="COL2">
+      <node ref="K0,2" pin="1" pintype="passive"/>
+      <node ref="K1,2" pin="1" pintype="passive"/>
+      <node ref="K2,2" pin="1" pintype="passive"/>
+      <node ref="K3,2" pin="1" pintype="passive"/>
+      <node ref="K4,2" pin="1" pintype="passive"/>
+      <node ref="U0" pin="10" pinfunction="PD4" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="COL3">
+      <node ref="K0,3" pin="1" pintype="passive"/>
+      <node ref="K1,3" pin="1" pintype="passive"/>
+      <node ref="K2,3" pin="1" pintype="passive"/>
+      <node ref="K3,3" pin="1" pintype="passive"/>
+      <node ref="K4,3" pin="1" pintype="passive"/>
+      <node ref="U0" pin="11" pinfunction="PD5" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="COL4">
+      <node ref="K0,4" pin="1" pintype="passive"/>
+      <node ref="K1,4" pin="1" pintype="passive"/>
+      <node ref="K2,4" pin="1" pintype="passive"/>
+      <node ref="K3,4" pin="1" pintype="passive"/>
+      <node ref="K4,4" pin="1" pintype="passive"/>
+      <node ref="U0" pin="12" pinfunction="PD6" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="COL5">
+      <node ref="K0,5" pin="1" pintype="passive"/>
+      <node ref="K1,5" pin="1" pintype="passive"/>
+      <node ref="K2,5" pin="1" pintype="passive"/>
+      <node ref="K3,5" pin="1" pintype="passive"/>
+      <node ref="U0" pin="14" pinfunction="PB0" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="COL6">
+      <node ref="K0,6" pin="1" pintype="passive"/>
+      <node ref="K1,6" pin="1" pintype="passive"/>
+      <node ref="K2,6" pin="1" pintype="passive"/>
+      <node ref="K3,6" pin="1" pintype="passive"/>
+      <node ref="U0" pin="15" pinfunction="PB1" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="COL7">
+      <node ref="K0,7" pin="1" pintype="passive"/>
+      <node ref="K1,7" pin="1" pintype="passive"/>
+      <node ref="K2,7" pin="1" pintype="passive"/>
+      <node ref="K3,7" pin="1" pintype="passive"/>
+      <node ref="U0" pin="16" pinfunction="PB2" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="COL8">
+      <node ref="K0,8" pin="1" pintype="passive"/>
+      <node ref="K1,8" pin="1" pintype="passive"/>
+      <node ref="K2,8" pin="1" pintype="passive"/>
+      <node ref="K3,8" pin="1" pintype="passive"/>
+      <node ref="U0" pin="17" pinfunction="PB3" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="COL9">
+      <node ref="K0,9" pin="1" pintype="passive"/>
+      <node ref="K1,9" pin="1" pintype="passive"/>
+      <node ref="K2,9" pin="1" pintype="passive"/>
+      <node ref="K3,9" pin="1" pintype="passive"/>
+      <node ref="U0" pin="18" pinfunction="PB4" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="COL10">
+      <node ref="K0,10" pin="1" pintype="passive"/>
+      <node ref="K1,10" pin="1" pintype="passive"/>
+      <node ref="K2,10" pin="1" pintype="passive"/>
+      <node ref="K3,10" pin="1" pintype="passive"/>
+      <node ref="K4,10" pin="1" pintype="passive"/>
+      <node ref="U0" pin="19" pinfunction="PB5" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="COL11">
+      <node ref="K0,11" pin="1" pintype="passive"/>
+      <node ref="K1,11" pin="1" pintype="passive"/>
+      <node ref="K2,11" pin="1" pintype="passive"/>
+      <node ref="K3,11" pin="1" pintype="passive"/>
+      <node ref="K4,11" pin="1" pintype="passive"/>
+      <node ref="U0" pin="20" pinfunction="PB6" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="COL12">
+      <node ref="K0,12" pin="1" pintype="passive"/>
+      <node ref="K1,12" pin="1" pintype="passive"/>
+      <node ref="K2,12" pin="1" pintype="passive"/>
+      <node ref="K3,12" pin="1" pintype="passive"/>
+      <node ref="K4,12" pin="1" pintype="passive"/>
+      <node ref="U0" pin="21" pinfunction="PB7" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="COL13">
+      <node ref="K0,13" pin="1" pintype="passive"/>
+      <node ref="K1,13" pin="1" pintype="passive"/>
+      <node ref="K2,13" pin="1" pintype="passive"/>
+      <node ref="K3,13" pin="1" pintype="passive"/>
+      <node ref="K4,13" pin="1" pintype="passive"/>
+      <node ref="U0" pin="22" pinfunction="PC7" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="COL14">
+      <node ref="K0,14" pin="1" pintype="passive"/>
+      <node ref="K1,14" pin="1" pintype="passive"/>
+      <node ref="K2,14" pin="1" pintype="passive"/>
+      <node ref="K3,14" pin="1" pintype="passive"/>
+      <node ref="K4,14" pin="1" pintype="passive"/>
+      <node ref="U0" pin="23" pinfunction="PC6" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="D+">
+      <node ref="J0" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J0" pin="B6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="IO1" pintype="passive"/>
+      <node ref="j1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="18" name="D-">
+      <node ref="J0" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J0" pin="B7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="IO3" pintype="passive"/>
+      <node ref="j1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="19" name="GND">
+      <node ref="C0" pin="1" pintype="passive"/>
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="J0" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J0" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J0" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J0" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="J0" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="SW0" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U0" pin="28" pinfunction="UGND" pintype="power_in"/>
+      <node ref="U0" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="2" pinfunction="VN" pintype="passive"/>
+      <node ref="Y0" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Y0" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="j1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(C0-Pad2)">
+      <node ref="C0" pin="2" pintype="passive"/>
+      <node ref="U0" pin="1" pinfunction="XTAL1" pintype="input"/>
+      <node ref="Y0" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="U0" pin="2" pinfunction="PC0/XTAL2" pintype="bidirectional"/>
+      <node ref="Y0" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="U0" pin="27" pinfunction="UCAP" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K0,1" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K0,0" pin="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K0,14" pin="2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D114-Pad2)">
+      <node ref="D114" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K1,14" pin="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(D203-Pad1)">
+      <node ref="D203" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K0,2" pin="2" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(D203-Pad2)">
+      <node ref="D203" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K0,3" pin="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D405-Pad1)">
+      <node ref="D405" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K0,4" pin="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D405-Pad2)">
+      <node ref="D405" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K0,5" pin="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D414-Pad2)">
+      <node ref="D414" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K4,14" pin="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D607-Pad1)">
+      <node ref="D607" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K0,6" pin="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D607-Pad2)">
+      <node ref="D607" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K0,7" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D809-Pad1)">
+      <node ref="D809" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K0,8" pin="2" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D809-Pad2)">
+      <node ref="D809" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K0,9" pin="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D1011-Pad1)">
+      <node ref="D1011" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K1,0" pin="2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D1011-Pad2)">
+      <node ref="D1011" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K1,1" pin="2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D1213-Pad1)">
+      <node ref="D1213" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K1,2" pin="2" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D1213-Pad2)">
+      <node ref="D1213" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K1,3" pin="2" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D1415-Pad1)">
+      <node ref="D1415" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K1,4" pin="2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D1415-Pad2)">
+      <node ref="D1415" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K1,5" pin="2" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D1617-Pad1)">
+      <node ref="D1617" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K1,6" pin="2" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D1617-Pad2)">
+      <node ref="D1617" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K1,7" pin="2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D1819-Pad1)">
+      <node ref="D1819" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K1,8" pin="2" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D1819-Pad2)">
+      <node ref="D1819" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K1,9" pin="2" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(D2021-Pad1)">
+      <node ref="D2021" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K2,2" pin="2" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(D2021-Pad2)">
+      <node ref="D2021" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K2,0" pin="2" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(D2324-Pad1)">
+      <node ref="D2324" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K2,4" pin="2" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(D2324-Pad2)">
+      <node ref="D2324" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K2,3" pin="2" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(D2526-Pad1)">
+      <node ref="D2526" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K2,6" pin="2" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(D2526-Pad2)">
+      <node ref="D2526" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K2,5" pin="2" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(D2728-Pad1)">
+      <node ref="D2728" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K2,7" pin="2" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(D2728-Pad2)">
+      <node ref="D2728" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K2,8" pin="2" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(D3031-Pad1)">
+      <node ref="D3031" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K3,2" pin="2" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(D3031-Pad2)">
+      <node ref="D3031" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K3,0" pin="2" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(D3334-Pad1)">
+      <node ref="D3334" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K3,4" pin="2" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(D3334-Pad2)">
+      <node ref="D3334" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K3,3" pin="2" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(D3536-Pad1)">
+      <node ref="D3536" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K3,6" pin="2" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(D3536-Pad2)">
+      <node ref="D3536" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K3,5" pin="2" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(D3738-Pad1)">
+      <node ref="D3738" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K3,8" pin="2" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(D3738-Pad2)">
+      <node ref="D3738" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K3,7" pin="2" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(D4041-Pad1)">
+      <node ref="D4041" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K4,2" pin="2" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(D4041-Pad2)">
+      <node ref="D4041" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K4,0" pin="2" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(D4344-Pad1)">
+      <node ref="D4344" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K4,4" pin="2" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(D4344-Pad2)">
+      <node ref="D4344" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K4,3" pin="2" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(D10011-Pad1)">
+      <node ref="D10011" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K0,10" pin="2" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(D10011-Pad2)">
+      <node ref="D10011" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K0,11" pin="2" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(D12013-Pad1)">
+      <node ref="D12013" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K0,12" pin="2" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(D12013-Pad2)">
+      <node ref="D12013" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K0,13" pin="2" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(D29210-Pad1)">
+      <node ref="D29210" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K2,10" pin="2" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(D29210-Pad2)">
+      <node ref="D29210" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K2,9" pin="2" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(D39310-Pad1)">
+      <node ref="D39310" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K3,10" pin="2" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(D39310-Pad2)">
+      <node ref="D39310" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K3,9" pin="2" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(D110111-Pad1)">
+      <node ref="D110111" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K1,10" pin="2" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(D110111-Pad2)">
+      <node ref="D110111" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K1,11" pin="2" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(D112113-Pad1)">
+      <node ref="D112113" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K1,12" pin="2" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(D112113-Pad2)">
+      <node ref="D112113" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K1,13" pin="2" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(D211212-Pad1)">
+      <node ref="D211212" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K2,12" pin="2" pintype="passive"/>
+    </net>
+    <net code="79" name="Net-(D211212-Pad2)">
+      <node ref="D211212" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K2,11" pin="2" pintype="passive"/>
+    </net>
+    <net code="80" name="Net-(D213214-Pad1)">
+      <node ref="D213214" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K2,13" pin="2" pintype="passive"/>
+    </net>
+    <net code="81" name="Net-(D213214-Pad2)">
+      <node ref="D213214" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K2,14" pin="2" pintype="passive"/>
+    </net>
+    <net code="82" name="Net-(D311312-Pad1)">
+      <node ref="D311312" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K3,12" pin="2" pintype="passive"/>
+    </net>
+    <net code="83" name="Net-(D311312-Pad2)">
+      <node ref="D311312" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K3,11" pin="2" pintype="passive"/>
+    </net>
+    <net code="84" name="Net-(D313314-Pad1)">
+      <node ref="D313314" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K3,14" pin="2" pintype="passive"/>
+    </net>
+    <net code="85" name="Net-(D313314-Pad2)">
+      <node ref="D313314" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K3,13" pin="2" pintype="passive"/>
+    </net>
+    <net code="86" name="Net-(D410411-Pad1)">
+      <node ref="D410411" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K4,11" pin="2" pintype="passive"/>
+    </net>
+    <net code="87" name="Net-(D410411-Pad2)">
+      <node ref="D410411" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K4,10" pin="2" pintype="passive"/>
+    </net>
+    <net code="88" name="Net-(D412413-Pad1)">
+      <node ref="D412413" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="K4,13" pin="2" pintype="passive"/>
+    </net>
+    <net code="89" name="Net-(D412413-Pad2)">
+      <node ref="D412413" pin="2" pinfunction="A2" pintype="input"/>
+      <node ref="K4,12" pin="2" pintype="passive"/>
+    </net>
+    <net code="90" name="Net-(J0-PadA5)">
+      <node ref="J0" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="91" name="Net-(J0-PadB5)">
+      <node ref="J0" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="92" name="Net-(R0-Pad2)">
+      <node ref="R0" pin="2" pintype="passive"/>
+      <node ref="SW0" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U0" pin="24" pinfunction="PC1/~{RESET}" pintype="bidirectional"/>
+    </net>
+    <net code="93" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U0" pin="29" pinfunction="D+" pintype="bidirectional"/>
+    </net>
+    <net code="94" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U0" pin="30" pinfunction="D-" pintype="bidirectional"/>
+    </net>
+    <net code="95" name="Net-(R5-Pad1)">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U0" pin="13" pinfunction="~{HWB}/PD7" pintype="bidirectional"/>
+    </net>
+    <net code="96" name="ROW0">
+      <node ref="D1" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D10011" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D12013" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D14" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D203" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D405" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D607" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D809" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="U0" pin="5" pinfunction="PC2" pintype="bidirectional"/>
+    </net>
+    <net code="97" name="ROW1">
+      <node ref="D1011" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D110111" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D112113" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D114" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D1213" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D1415" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D1617" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D1819" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="U0" pin="6" pinfunction="PD0" pintype="bidirectional"/>
+    </net>
+    <net code="98" name="ROW2">
+      <node ref="D2021" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D211212" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D213214" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D2324" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D2526" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D2728" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D29210" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="U0" pin="7" pinfunction="PD1" pintype="bidirectional"/>
+    </net>
+    <net code="99" name="ROW3">
+      <node ref="D3031" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D311312" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D313314" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D3334" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D3536" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D3738" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D39310" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="U0" pin="8" pinfunction="PD2" pintype="bidirectional"/>
+    </net>
+    <net code="100" name="ROW4">
+      <node ref="D4041" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D410411" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D412413" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D414" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D4344" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="U0" pin="9" pinfunction="PD3" pintype="bidirectional"/>
+    </net>
+    <net code="101" name="VCC">
+      <node ref="F0" pin="1" pintype="passive"/>
+      <node ref="J0" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J0" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J0" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J0" pin="B9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="VP" pintype="passive"/>
+    </net>
+    <net code="102" name="unconnected-(D14-Pad1)">
+      <node ref="D14" pin="1" pinfunction="A1" pintype="input"/>
+    </net>
+    <net code="103" name="unconnected-(D114-Pad1)">
+      <node ref="D114" pin="1" pinfunction="A1" pintype="input"/>
+    </net>
+    <net code="104" name="unconnected-(D414-Pad1)">
+      <node ref="D414" pin="1" pinfunction="A1" pintype="input"/>
+    </net>
+    <net code="105" name="unconnected-(J0-PadA8)">
+      <node ref="J0" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="106" name="unconnected-(J0-PadB8)">
+      <node ref="J0" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="107" name="unconnected-(U1-Pad3)">
+      <node ref="U1" pin="3" pinfunction="IO2" pintype="passive+no_connect"/>
+    </net>
+    <net code="108" name="unconnected-(U1-Pad6)">
+      <node ref="U1" pin="6" pinfunction="IO4" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>

@@ -14,4 +14,4 @@ Comment,Designator,Footprint,LCSC
 "ATmega32U2-A","U0","Package_QFP:TQFP-32_7x7mm_P0.8mm","C618733"
 "SRV05-4","U1","Package_TO_SOT_SMD:SOT-23-6","C85364"
 "Crystal_GND24_Small","Y0","Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm","C13738"
-"JST ai30 daughterboard","j1","kbd:Aio3_jst","C160404"
+"JST ai30 daughterboard","j1","kbd:Aio3_jst","C2845363 "

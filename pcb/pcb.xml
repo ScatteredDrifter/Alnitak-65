@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/home/fabian/Nextcloud/tech-cluster/KEYBOARDS/own/Alnitak65/pcb/pcb.kicad_sch</source>
-    <date>Wed 30 Mar 2022 10:24:38 PM CEST</date>
-    <tool>Eeschema (6.0.2)</tool>
+    <source>/home/fabian/Nextcloud/tech-cluster/KEYBOARDS/own/Alnitak-65/pcb/pcb.kicad_sch</source>
+    <date>Wed 27 Apr 2022 11:35:27 PM CEST</date>
+    <tool>Eeschema (6.0.4)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
@@ -624,10 +624,10 @@
       <value>JST ai30 daughterboard</value>
       <footprint>kbd:Aio3_jst</footprint>
       <fields>
-        <field name="LCSC">C160404</field>
+        <field name="LCSC">C2845363 </field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="LCSC" value="C160404"/>
+      <property name="LCSC" value="C2845363 "/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="pcb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>

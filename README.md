@@ -10,7 +10,7 @@ The outlines and mounting hole positions were taken from the [bakeneko60](https:
 
 - Prototypes arrived; fully tested and working 
 
-- confirmation for tray mount / bakeneko65 case pending 
+- tray mount / bakeneko65 case compatible 
 
 ---
 
